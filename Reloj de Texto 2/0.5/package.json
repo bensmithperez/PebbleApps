@@ -1,0 +1,43 @@
+{
+    "author": "Benjamin Smith",
+    "dependencies": {
+        "pebble-clay": "^1.0.2"
+    },
+    "keywords": [],
+    "name": "reloj-de-texto-2",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Reloj de Texto 2",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "BackgroundColor",
+            "ForegroundColor",
+            "TextCentered"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bt-icon.png",
+                    "name": "IMAGE_BT_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.5.0"
+}
