@@ -1,0 +1,43 @@
+{
+    "author": "Benjamin Smith",
+    "dependencies": {},
+    "keywords": [],
+    "name": "subte-buenos-aires",
+    "pebble": {
+        "displayName": "Subte Buenos Aires",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "KEY_LINEAA": 0,
+            "KEY_LINEAB": 1,
+            "KEY_LINEAC": 2,
+            "KEY_LINEAD": 3,
+            "KEY_LINEAE": 4,
+            "KEY_LINEAH": 5,
+            "KEY_LINEAP": 6,
+            "KEY_LINEAU": 7
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon",
+                    "menuIcon": true,
+                    "name": "icon_img",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.6.0"
+}
