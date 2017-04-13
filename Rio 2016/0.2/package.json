@@ -1,0 +1,43 @@
+{
+    "author": "Benjamin Smith",
+    "dependencies": {
+        "pebble-clay": "^1.0.2"
+    },
+    "keywords": [],
+    "name": "rio-2016",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Rio 2016",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "PaisElegido",
+            "TimeColor",
+            "TeamColor",
+            "ShowBattery"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/ringspebble",
+                    "name": "RINGS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.2.0"
+}
