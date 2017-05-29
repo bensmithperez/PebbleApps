@@ -1,3 +1,9 @@
+/* -------------------------------------- *
+ * Day/Night Analog                       *
+ * v0.4                                   *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 #include <pebble.h>
 
 static Window *s_main_window;

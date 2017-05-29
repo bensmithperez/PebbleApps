@@ -1,3 +1,12 @@
+/* -------------------------------------- *
+ * Slider Controls (pebble)               *
+ * v0.8                                   *
+ *                                        *
+ * main.c                                 *
+ *                                        *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 #include <pebble.h>
 
 static Window *s_main_window;

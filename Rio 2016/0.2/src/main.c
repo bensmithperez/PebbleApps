@@ -1,3 +1,12 @@
+/* -------------------------------------- *
+ * Rio 2016 (pebble)            		  *
+ * v0.2                                   *
+ *                                        *
+ * main.c                                 *
+ *                                        *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 #include "pebble.h"
 
 static BitmapLayer *logo_image_layer;

@@ -1,3 +1,12 @@
+/* -------------------------------------- *
+ * Rio 2016 (pebble)        			  *
+ * v0.2                                   *
+ *                                        *
+ * app.js                                 *
+ *                                        *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 // Import the Clay package
 var Clay = require('pebble-clay');
 // Load our Clay configuration file

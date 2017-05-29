@@ -1,3 +1,12 @@
+/* -------------------------------------- *
+ * Subte Buenos Aires (pebble)            *
+ * v0.6                                   *
+ *                                        *
+ * app.js                                 *
+ *                                        *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 function HTTPGET(url) {
     var req = new XMLHttpRequest();
     req.open("GET", url, false);

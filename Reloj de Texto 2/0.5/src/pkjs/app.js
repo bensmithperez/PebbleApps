@@ -1,3 +1,9 @@
+/* -------------------------------------- *
+ * Reloj de Texto 2			           	  *
+ * v0.5                                   *
+ * Benjamin Smith                         *
+ * -------------------------------------- */
+
 // Import the Clay package
 var Clay = require('pebble-clay');
 // Load our Clay configuration file
